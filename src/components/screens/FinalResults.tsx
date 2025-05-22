@@ -169,9 +169,7 @@ const FinalResults: React.FC<FinalResultsProps> = ({ quizData }) => {
           transition={{ delay: 1, type: "spring" }}
         >
           <a 
-            href="https://spectacular-profiterole-87ac75.netlify.app/"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="https://protocolovital4f.online"
             className="block"
           >
             <Button variant="cta">
