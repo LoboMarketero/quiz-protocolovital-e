@@ -169,7 +169,7 @@ const FinalResults: React.FC<FinalResultsProps> = ({ quizData }) => {
           transition={{ delay: 1, type: "spring" }}
         >
           <a 
-            href="https://protocolovital4f.online"
+            href="https://liberado.protocolovital4f.online"
             className="block"
           >
             <Button variant="cta">
