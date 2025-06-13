@@ -21,12 +21,12 @@ const Introduction: React.FC<IntroductionProps> = ({ onContinue }) => {
         </h2>
         
         <p className="mb-6">
-          Teste oficial da <strong>Dra. Mariana Ribeiro</strong>, biomédica especialista em saúde intestinal feminina
+          Teste oficial da <strong>Dra. Emanuelle Caceres</strong>, biomédica especialista em saúde intestinal feminina
         </p>
 
         <div className="mb-6">
           <img
-            src="https://i.postimg.cc/4ynmfgVy/u7676189272-httpss-mj-run-F2-Q1o-OP5-YMA-Crea-una-imagen-de-una-d-72e611f9-dfb0-4949-ab4b-688ec225a381-0.png"
+            src="https://i.postimg.cc/wjJGMSgs/13-D32196-5-C3-D-4863-94-B3-9565-E8-C00913.jpg"
             alt="Transformação"
             className="w-full rounded-lg shadow-card"
           />

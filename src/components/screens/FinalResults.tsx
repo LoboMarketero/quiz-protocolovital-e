@@ -155,21 +155,13 @@ const FinalResults: React.FC<FinalResultsProps> = ({ quizData }) => {
           </motion.ul>
         </div>
 
-        <div className="mb-8">
-          <img
-            src="https://i.postimg.cc/7bvZMTJ8/u7676189272-httpss-mj-run-Zb-Hlk-Bsj-BWE-A-full-body-photo-of-a-p-c45f275b-68c5-4cc1-8d7c-a45ff79cda05-3.png"
-            alt="Transformação"
-            className="w-full rounded-lg shadow-card"
-          />
-        </div>
-
         <motion.div
           initial={{ scale: 0.95, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
           transition={{ delay: 1, type: "spring" }}
         >
           <a 
-            href="https://liberado.protocolovital4f.online"
+            href="https://teste-e.protocolovital4f.online/"
             className="block"
           >
             <Button variant="cta">

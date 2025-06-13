@@ -127,7 +127,7 @@ const Testimonials: React.FC<TestimonialsProps> = ({ onContinue }) => {
                   </div>
                   <div className="bg-primary-50 rounded-lg p-4">
                     <p className="text-sm">
-                      <span className="font-semibold">Notas da Dra. Mariana:</span> Este é um resultado típico após o tratamento completo com o Protocolo 4F. A eliminação dos parasitas permitiu que o corpo voltasse a responder naturalmente aos esforços de emagrecimento.
+                      <span className="font-semibold">Notas da Dra. Emanuelle:</span> Este é um resultado típico após o tratamento completo com o Protocolo 4F. A eliminação dos parasitas permitiu que o corpo voltasse a responder naturalmente aos esforços de emagrecimento.
                     </p>
                   </div>
                 </div>
